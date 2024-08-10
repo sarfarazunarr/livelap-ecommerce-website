@@ -1,6 +1,7 @@
 # LiveLap E-commerce Website
 
 LiveLap is a complete e-commerce website with a wide range of features and functionalities to provide a seamless shopping experience for users and efficient management for store owners.
+It is a task assigned by Internee.pk
 
 ## Features and Functionalities
 
